@@ -5,4 +5,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CornHusker89&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
 </a>
 
-I'm learning how to do many things.
+I'm currently learning about C#.
